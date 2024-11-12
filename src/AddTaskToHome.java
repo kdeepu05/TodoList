@@ -1,7 +1,3 @@
-/**
- * Author: omteja04
- * Description: AddTaskToHome
- */
 
 import javax.swing.*;
 import java.awt.*;
