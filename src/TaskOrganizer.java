@@ -1,7 +1,3 @@
-/**
- * Author: omteja04
- * Description: TaskOrganizer
- */
 
 import javax.swing.*;
 import java.sql.Connection;
